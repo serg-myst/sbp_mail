@@ -1,0 +1,14 @@
+/sbp/.env
+
+*__pycache__*
+*.pyc
+*.pyo
+*.DS_Store
+
+venv
+.idea
+.env
+*.log
+*.pot
+*.sqllite3
+
